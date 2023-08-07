@@ -27,7 +27,7 @@
         <lombok.version>1.16.20</lombok.version>
         <commons-lang3.version>3.8.1</commons-lang3.version>
         <fastjson.version>1.2.56</fastjson.version>
-        <netty.version>3.6.6.Final</netty.version>
+        <netty.version>3.9.8.Final</netty.version>
     </properties>
 
     <dependencies>
